@@ -13,6 +13,15 @@
   </a>
 </p>
 
+
+## Abstract
+
+Real-world user-generated videos, especially on platforms like TikTok, often feature rich and intertwined audio-visual content. However, existing video captioning benchmarks and models remain predominantly visual-centric, overlooking the crucial role of audio in conveying scene dynamics, speaker intent, and narrative context. This lack of full-modality datasets and lightweight, capable models hampers progress in fine-grained, multimodal video understanding.
+To address these challenges, we introduce **UGC-VideoCap**, a new benchmark and model framework specifically designed for detailed, omnimodal captioning of short-form, user-generated videos. Unlike prior datasets, UGC-VideoCap emphasizes balanced integration of audio and visual modalities, featuring 1,000 TikTok videos annotated through a structured three-stage human-in-the-loop pipeline covering audio-only, visual-only, and joint audio-visual semantics. The benchmark also includes 4,000 carefully crafted QA pairs probing both unimodal and cross-modal understanding.
+Alongside the dataset, we propose **UGC-VideoCaptioner-3B**, a 3B-parameter captioning model distilled from Gemini-2.5 Flash. Using a novel two-stage training strategy—supervised fine-tuning followed by Group Relative Policy Optimization (GRPO)—our approach enables efficient adaptation from limited data while maintaining competitive performance. Together, our benchmark and model offer a high-quality foundation and a data-efficient solution for advancing omnimodal video captioning in unconstrained, real-world UGC settings.
+
+
+
 <p align="center">
     <img src="tiktok_qa_sample.png" alt="UGC-VideoCap">
 </p>
