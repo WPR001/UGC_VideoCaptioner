@@ -1,4 +1,4 @@
-# UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks
+#  <img src="memories-ai.png" alt="Icon" width="50" height="50"> UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks
 
 
 
