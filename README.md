@@ -1,4 +1,4 @@
-# UGC-VideoCaptioner: A Reinforcement Learning Based Omni Modality UGC Video Detail Caption Model and New Benchmarks
+# UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks
 
 
 <p align="center">
