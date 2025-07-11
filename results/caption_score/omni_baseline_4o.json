@@ -1,0 +1,6002 @@
+{
+  "evaluations": {
+    "PI-00016e0b-b1b4-4414-a7bb-8a3374aeb019": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-000360ac-8c43-4115-9f4c-332899bbdbb3": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-007dc12f-c342-4c8c-b378-bf2c4f76d4e4": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-008cb09e-fa4a-4881-8cf4-a2b76eff1371": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-0095105a-a978-428d-91d2-59eccd584797": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-01016f64-0069-4259-bfa9-11cf6e3673d6": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-011c29c2-242e-49f1-9a78-a6265b6fd1a1": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-0181b1ad-0751-46ce-853f-2c2e9fa4c3f2": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-01c09e77-01e5-4bbe-8d85-d86ca28b22b3": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0215e791-b127-4aa4-a3e1-9e62b6c139c5": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-0216673e-dce2-4321-9a75-fa6fd1970811": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-02373b80-4a90-410c-a169-fead4e2e41ad": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-02c6abc1-6713-4be5-a8e2-935ffb86a3d8": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-02d5bd99-8099-4e0c-b528-003f938b117b": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-02e97a8d-3259-4d14-b271-6a530c86a0c5": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-033e0865-2c2e-49c0-b765-3c2cc397a3b0": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0366f6ba-6905-4e0f-bc5d-c13a0a4da6d1": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-03f7a6cc-bb4c-4a7a-bf49-8e4d22122437": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-044374d3-5922-42ac-81f6-b17c8c0858d8": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-045adbd2-f084-4842-bb7d-3ecff302ece8": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-046f05af-0528-4e7b-962b-980172b5c0f4": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0471925b-5647-44e2-809a-30fcd2862430": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-04a2d2ae-d2b6-4101-b3bb-174373fdc6db": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-055b5d3c-e856-4b8c-849b-ff9016380e8b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-05e8ec6d-2260-478e-ac06-528783029b67": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-069807fd-4f1a-4a8b-942c-b6bf1603db0a": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-06ae1fac-adb2-40a8-995b-dc7c9cc866bd": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0726e126-6e8e-42f9-ab0d-f97e6177513c": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-072e79df-cc1f-47a0-92b7-840c6065cc92": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0775adf3-7692-4488-a13c-1dfc4456cc22": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-07b2c73e-8bba-4d9e-8aaa-5c5e54e94744": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-07c24267-397d-4a58-b354-3bf6ac444968": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-07ce65a8-a227-438a-9d50-a08c56c16219": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-08282db3-c39d-422b-a91d-75af3433b99b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-08c0795d-637f-4c8e-8b5c-da8e37d29f86": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-08dc7604-9b66-4623-a6e6-a0471c3c4897": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-08f60841-2846-4c19-a4df-bb7777642ba9": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-08f9eb1d-2712-4bef-bac3-f49812833f91": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-0920e5c4-4275-4a34-a6e5-43c22220f843": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-096791f7-af45-4156-bc27-c87209953bee": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-09b6b5e5-9975-4cf2-b689-59a8f48d63da": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-09f981ee-6142-46ab-8b3d-7dc31da1d20f": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-0a42c578-1293-4e68-8748-a5bdc3f0c3d9": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-0abb79ae-18ae-40d9-a66f-3ad7744a6095": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-0ac54f33-f5fb-4de3-9348-acf6501b3ab7": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-0ac92d6f-0685-49de-b2bc-69c731982918": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-0af294b8-775e-4461-9709-3b821426783c": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-0c5d99e2-8edb-4375-8253-c85b6cdc2966": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-0c73b12b-8514-4655-8285-af502b6777f4": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0d6db6db-2918-4bb9-9e54-ed15d68a38f2": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0de8cdec-d158-484b-a9f0-30054ee117de": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-0e0c7855-5428-4d01-8481-415c0193f7ef": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0e68b0c2-187f-491a-91c5-ddcd5ac5427c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-0e69993e-369b-4515-a42a-893122764b27": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-0e9a8476-00e7-4fae-802d-a84f839b081b": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0e9bb252-11eb-49c8-9ce5-6c54c0be0bd4": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-0ea6dd37-fe26-4505-b69f-a632a8f80e9d": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-0eb4acec-4941-447d-bc45-1ffb710a48db": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-0f627fcb-cea1-4802-ab1c-41804152f431": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-0f6a33de-5f13-481c-8d47-cc5d7bc4ad58": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-0f76fd6e-0e1c-4dc6-9fd0-4e2c9f4c5200": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-0ff895d4-e94e-45e5-a1cd-1f1a293c12c2": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-0fff81b7-5a99-4272-af2f-5f8fba0a2e20": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-104a3b88-9119-4563-a630-e4ecc4747774": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-105a2dd8-e480-4e0e-9502-367a68440d7d": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 5,
+      "average_score": 4.333333333333333
+    },
+    "PI-10977ea9-377c-414a-81a9-f11559e4e64d": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-10a43c0c-eda3-42b9-b558-dcbb1f0cbd11": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-11498cc0-d3d0-4b07-b88c-b94d70555d83": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-11bc1e63-159b-43b1-b43f-f5141187d760": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-11d483c8-558b-4e7f-935f-68737427b19e": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-1218964c-ca49-49a5-aa21-68bac8369beb": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-1236233d-7f8f-48e7-b014-4cca03d693b8": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-12fc8c9a-9fa8-4f22-a6bb-4f6060d8049e": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-1320564d-a846-4b80-bdf6-03276a7d218a": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-137c2f50-e8b1-410d-bb2f-1f6b5a5fa77a": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-1390ac32-1cd7-4810-9248-0c0271cdab03": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-13e6ee34-d1c5-400f-a664-c2c262c4ba1b": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-1406e89a-e3d8-444e-b1c5-c48f1c8fbb7c": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-1415c197-8445-4df8-a26c-27282ccd1eca": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-149ae1d6-b0e0-4c01-b968-ae48c9d6b73d": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-14ffb970-e1a1-4fcb-82da-632cfebed1e8": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-15b2b0c6-5acc-43bf-99f3-4822306b4ca5": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-15b9768b-f55b-44d8-b2fb-a3997d345179": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-15df2380-f2ce-4ea4-a99c-0fa9121ec9a0": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-15f7fca4-9df5-4035-92c5-025f0aa591fa": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-1674ae13-8e48-4429-9eca-7722bb8edbbd": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-16762b7b-982b-4d99-8d26-44d2900fb422": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-168b9346-2ed1-43e4-ab90-4e7bdeae0a82": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-17632f7e-603b-479e-a934-ea32b5b68114": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-18be107b-1237-4f4f-8a6d-d24c22b8e3ba": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-18d08ec6-b577-44b5-9466-03ed9acf1a6b": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-18f168ce-9596-4073-b2b7-173cb5fe87a3": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-18fe92eb-e878-440b-9396-cb57e461a525": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-192f908c-f740-44b9-8c49-1477b5e5f768": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-19b0a25d-94ac-41a0-934e-f775f20c5d61": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-19b5ad8d-3c86-4937-9c45-5d130ebe8d3e": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-1a6aa994-e483-4a30-96a1-89d8e4095b8f": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-1b270291-7967-4733-8e4d-bf33873622b0": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-1bd5eb7e-811d-4954-9a46-9769a8621d3d": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-1be34bb7-b78a-4066-93b2-a2fdee79015b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-1bf3fd7a-e0b1-49ae-b939-d071299bdce4": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-1c5afb3b-7531-4025-bf7d-04e50258070b": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-1c6ebe48-8d3b-482f-8ddf-3017c9f30f24": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-1c92c187-6388-42d5-94da-0494c59437ab": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-1ca40334-4d5c-4ea9-b81b-c892344c2d58": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-1ca596d3-885f-4c90-aa07-98eb567ecfa1": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-1ccc9945-08cd-4b27-9533-7705f628c867": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-1d183ddd-ade6-43f0-85cf-881da69d5c27": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-1d9355d2-f635-4d95-8937-053280cbb9a8": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-1d9440cc-c26d-4e6f-8be1-90bbad63203d": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-1dd286a9-7666-44c1-9dcf-86146ab10487": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-1ddf521e-9773-48a8-b153-ae03206e5b73": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-1df3a26f-7a96-4f9c-a247-f00999b20256": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-1df3b64d-f431-45e3-9caf-3c5b15895bf3": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-1e1222e2-4be2-4314-a0ba-6c44f3eb22ff": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-1e29c55c-998f-495e-b0f9-74dad98f02d3": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-1e40cc8e-792a-47cb-96a4-3fdf1c884eea": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-1e67757b-fb62-46ba-b9fe-a20764bd84e7": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-1e80935a-cc92-438a-8872-f65d83a04eda": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-1eb689cb-cd95-4d24-9eca-d7b0334a1818": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-1eda0369-e413-463f-b089-b5703a864c4c": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-1f148d77-820e-4c4e-9fb2-b3b2e258271b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-1f1ec4f3-9589-46de-84ff-786fcaa8dee9": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-1f3b10a8-eb3c-449c-a552-f8f6fa896e5f": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-1f67fd8a-eb83-4623-9003-665f589919a9": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-1ff7d858-ba60-43d2-82fc-781b0fb0e04e": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-20337f9e-d0ab-424b-995e-a29edeb187f6": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-20625f75-67e9-4b6f-bdf6-8a5cc423b5ef": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-2066f65f-93cd-4c3f-9266-69f45721d53c": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-20b881ed-1ad3-4250-b818-f930d70effca": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-20da628a-49c2-4185-a532-688df2f9589a": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-20dc3ca4-f2b7-4ec6-ad1e-e636d8f2600b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-20e0df36-2939-435a-a249-f4fb96b7d3d5": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-21364679-c823-477d-ab85-40f121a0b9f2": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-213eb9ab-ca52-4845-866c-102fcd671ea7": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-21ac569a-469a-4ba6-b41c-f05253062f7f": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-21f1ab98-78ff-4763-9ae8-6da1191c9214": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-21f25f99-386c-4e26-9cce-7c4d5c21bb77": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-2260a43a-534a-4a3e-8aa6-32c102e704c9": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-22c8a87c-763f-4f6b-9a32-21429efce2a3": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-2344d15b-7d82-42e6-9edc-4049dfa3594b": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-234a6c13-8118-4d78-b531-9074539aac47": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-23514543-2ece-4247-885c-15999d492128": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-235df21c-1a70-4170-916d-b946211da23a": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-2400df13-490c-4541-b276-1747c0f5f042": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-2401ea46-ce20-4088-9d64-be17ef6210f0": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-2471926b-c613-4aa8-afd5-256be61ccc8f": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-24b02832-ad12-4361-9b2f-80a56bea03a8": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-25860259-1cbf-404a-81e3-94811735ce7d": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-25873e45-939f-4f81-8e7f-4b7669859e1a": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-258cc268-1e1f-4f3b-8863-c67a83871c55": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-261ea1bd-de7a-4412-842e-9bbcee93777f": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-26611a3c-b3fe-497c-8597-1d99d5341eb7": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-268ddf93-057d-4067-b651-1d669e6e0c0e": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-26b51e5c-9451-4fcd-b82e-00c8f3a1b9c5": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-27038d18-69ce-4626-9d09-b05110caacb3": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-271ff680-b8b2-42d5-849b-15bf6757ebbe": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-2746c863-0246-4268-8534-cfcd7d58944f": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-27b1643f-b485-4831-b6f1-5d9aaa2e314b": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-27c02f56-cab3-4c63-a810-e2d53b253e32": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-27c44871-23db-4dc4-aa60-e8e862d692f6": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-27d84dc4-9184-44b4-b5bd-3afaf216ee52": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-28236ee0-9db2-4ca1-b912-59f092c4457d": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-28a5d5e1-40b0-4def-887d-3a5cb426a762": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-293c50e8-7c84-4044-ab23-66def6109846": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-2999d9f1-8124-4d1d-8683-ee311b367899": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-2a4b1881-33c2-43f9-986c-ad877f1c2bef": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-2a72146b-c51a-4a87-b602-c40994afa3af": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-2a7d3acc-fb98-4d17-8b95-bd8209c08f81": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-2b4ffc10-b72f-4089-9f16-766e60807030": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-2b75e203-2d1f-45cb-8816-131055a51343": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-2b9c2871-9f5e-4b46-9372-4ac0f4ffb537": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-2bc0e551-a9f7-4b2f-9130-aebb4d8f3499": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-2bd67fb3-85c1-4740-8f11-0bef939934ad": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-2bdd2fee-a899-47eb-ab0c-b0a104f6b63b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-2c168670-274e-4a4d-93da-25c5750f9bb8": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-2c3edee8-436a-4217-b95d-a8ad22511613": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-2c5f34b9-60f0-47f2-b22e-b00965d3223e": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-2c67ffc9-282e-4289-9bb0-0144b8f01ba4": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-2cb22ee9-c4f1-40b1-a326-e11b28ea4b78": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-2d7500d7-89c7-4227-8f3f-1db70c2fe0e2": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-2e4ec821-1756-4d7a-802d-9c5cf33b74b7": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-2e64c485-142c-49ac-9271-eac59285424b": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-2e6862f0-9889-48f5-abfd-ebdb956cb8dc": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-2e817eda-e963-4d6c-8f31-4dbf8161524a": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-2eb09166-983c-4455-a385-c2f8f56a5d3c": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-2ec0a2d0-9ba9-43ce-b6b0-6152012b2b1a": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-2f13d937-56a7-4c52-a287-1e2939837bd2": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-2fb11ebf-d12b-4023-91e7-c1b826fd4242": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-2fdea73b-8d2a-4323-a190-12c9f659fa1c": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-2fe25558-179c-4141-89ea-e20c1bf67e2c": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-30145fc8-3c83-4a22-972a-b0aa123f98f8": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-30274abe-af1a-4b76-a17d-2b4084faaa3f": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-30b8a93c-9882-48d6-b828-5809601b5125": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-30dab627-391f-4158-9988-efda7d37c769": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-311a5a4f-abfe-4459-8ed0-55b8b2f260a4": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-311d72b2-a4f1-494b-ab13-671ca4888de6": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-31a64248-aaa7-4673-b55f-3bd654ee31b9": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-3209f986-e0d7-4a39-85f0-d4fcc9ad414f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-320d3f80-5f46-451f-bdaf-7c5dbfc55864": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-32b03876-aa09-4893-a262-ae3131bdaea4": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-32cdb119-9eed-447c-88fe-1eec6a4b87e4": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-32e342fa-ed1f-416c-a7f7-5f934b10c6c7": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-32f64cc1-2203-4fea-980d-3daceade7cf4": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-334502aa-319d-4509-a5f0-56084cd6e054": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-338b03ef-3e0f-4a53-a011-459ac08bc828": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-347193bd-9b4c-4f8c-afb0-ca6f0b309212": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-34ad73c6-33ba-4737-92e7-4ae8bdef0a28": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-34b043bd-7a44-48bb-ad55-7ffe586187cc": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-34ca52a4-eddb-4986-aad5-d4a27bc5be47": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-3502ef25-4004-4d88-957c-2141c68c0532": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-351896d3-c4a3-4f21-99e2-9809dde857cd": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-3555026c-7c50-4589-935d-ef04b6495822": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-355ec7bf-2020-49a6-a067-2de67ab317e8": {
+      "visual_score": 4,
+      "audio_score": 5,
+      "details_score": 4,
+      "average_score": 4.333333333333333
+    },
+    "PI-357603d3-1949-4d2b-aa05-8bdf04f87361": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-357a9c47-5c99-40ea-9aa5-73d73936d2b1": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-35aaa19d-e82f-4209-ad2f-140f1ee9e04a": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-35b12860-f5c0-49be-97f7-95610849b1d4": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-35f37f48-2d55-4c76-b0ba-176d115b1ac9": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-360508d1-e450-4a41-9cbd-082c74c9b890": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-36165c54-e5fa-4f17-b56a-e8e5c10acd40": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-3697d4f8-8e6a-4938-86a3-de66aaf166ea": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-36a41ad0-092b-4712-9334-326a7e9c666a": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-36cd5865-a6f8-41ed-9633-a13b1add0f76": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-3724c335-43f7-49a7-a12a-79d0b8a8311a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-3726e8f0-ad24-4cdf-b6f2-da1e93a3f3a0": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-37cd5519-332f-4221-91ee-529ddba1b1b4": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-37f98a02-e119-4d6e-b167-0cf53e894341": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-38736e2d-9efe-4c09-bb74-8723e3cf57f7": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-3895ff89-6207-4784-a5f7-75b4070b4647": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-38a4bad0-b874-40d2-9094-6dfa6a0089b0": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-39bd7d75-fcfc-451c-8233-5e5bf43ccf26": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-39cc5b68-d13b-4342-b7bd-8105c541c87d": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-39d2dc14-deeb-4809-bac3-c1c9ef534595": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-39f77dbf-5909-4770-95a5-bedc3106ce66": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-39fcf2aa-e931-4fd2-9e2d-78459bf86bc2": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-3a102cee-2995-43b2-a2e7-d69d92795d1d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-3a137762-91a6-46c1-8dd9-7a6ba55f111f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-3b6487e3-78de-4ce9-8e55-23efea4cd979": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-3cff6c7a-bfd7-40e9-b611-89ade8527202": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-3d0e02c3-c566-402a-a87b-616571982692": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-3d628d55-408e-40f2-bf74-e326739d96e0": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-3de6afdb-30e6-4270-896c-2275572b8096": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-3e950133-32fb-4996-b9c0-9849ab30ef85": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-3f055bab-4038-4466-98ce-dd0597430eae": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-3f0f1c7a-1914-452f-884e-7ffff74dc28e": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-3f26b90a-db8c-424c-b48e-086758fad9c8": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-3fa5b346-6ca9-416c-8133-2532b21176a2": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-3fb234d5-a48e-4069-b521-225433820b3f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-3fefd4fc-1a40-47c1-935c-3afb03efcb48": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-3ff4cea2-b697-458f-9aa3-48d2e7dcde78": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-4014fd8b-7677-4381-8010-f9cb3d4985bb": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-401707ce-6239-4b9d-b2b4-129c7bbdb5c8": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-401a41d8-705f-4567-bc5a-832e11fcc1e1": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-4030017f-06f9-430a-9403-0dbcee04b815": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-405b2b9c-d873-4ea2-a976-8a303ab098ab": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-406ff74a-1033-465e-86cf-23f64b125d7e": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-40852f3b-b912-473a-9f2a-4d206b415897": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-40b9810e-b648-4617-beb2-4f39f2643b80": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-40bb059b-e365-40ea-a5ec-8b535b0e1857": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-4112e806-b89e-48b9-a7bf-4edaa2bf1818": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-416008ca-bd5b-48ce-ab0b-e52dfeb75bc7": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-418f79a3-2a14-4844-b266-955544c3077a": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-41a11b49-af69-48b5-920b-a8d3cc98a396": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-41ab9900-8177-459c-93c7-b951002d407a": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-41b8b757-48c3-47dd-bdff-c54f8fd379a0": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-41f0d21e-7885-4b68-9ae2-55d18a8d7ef0": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-41f85a6e-33b9-4492-b4e3-e55df8611d9a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-421c3724-35b4-45e1-bfa6-418591fb5502": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-42b05d5c-a714-4bf6-9316-a89fb4d1809a": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-430a77b2-decc-49cd-9893-6506a6fb9353": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-434a8356-1d08-4f14-9b54-85cfa75e0f56": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-43a6ae2c-b42b-480c-90cb-12451dda9876": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-43b4df82-917c-4312-b53b-5eecd1f2a748": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-43b770e6-d6dd-4198-adbe-34dcfa634abf": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-44934598-0a2b-4697-8dc5-e82e4dbfbff5": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-44ae5c6c-7ec5-48a4-a9ff-a215f901623c": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-44cf3a9f-7fbe-4ffc-b12c-f692b2384c07": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-44e91a8a-5259-4816-85f7-ab165552cbd1": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-4513b53f-ccac-42d6-898d-216e3d341cd1": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-45344642-eb53-4172-b1a7-dd9e9947ce01": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-454def78-d8f6-4b19-87c8-3d77378b1686": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-45f874d8-441d-4395-b078-2686bac3d64c": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-46046371-2b7e-47f4-a564-b8b501bfc040": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-464f40ac-2942-49cd-bda4-846294028d5b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-4664602c-f46e-47fe-b009-0e638b4f48c5": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-4690fe84-9c47-4e88-b15f-3fbdd35d9b02": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-469aace6-5039-40d8-9251-5c80f0e4d97a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-469d1384-e3bb-468b-bc0f-38268aaf0e4e": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-469d7af5-d7bc-4d88-b8b8-7ede6d746085": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-469ff900-bf69-4e44-95c0-8b1081a838b5": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-46f66e85-00a8-452b-9c2c-a5103d959fd2": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-47118c62-63ec-490c-8246-c23dd8e6b224": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-474fba7b-a332-47b1-aef1-21c29d3b4a16": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-47f978a5-2342-4cc6-a95f-52a04b6a1e5a": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-481b2aa4-61fd-41a4-be33-ab95a33b53b9": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-4823b76e-bd16-476e-bf97-29327882a4a0": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-48364d32-3f4e-49f7-bd7b-b90a5baa6b4c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-485b8042-0133-442a-88a3-0908bdfc1dff": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-49404913-56ec-495f-937b-315b7f404c56": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-495cf2a1-d5b3-470f-80b2-f299bce43708": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-4960f6ee-441b-4ed5-b4d0-3192d8c4836c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.3333333333333335
+    },
+    "PI-49d89e11-fd6a-4290-bcf8-97dea375cb1f": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-49ed2fc4-b44a-4aa9-bdce-cab6049113f3": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-4a71c28c-2e45-4be9-bbb5-34c6c1b6eafc": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-4ab30bdd-eb25-4803-a90d-c028d2fbca6d": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-4b0aa16c-8bd7-4dd4-b138-148c83d577fc": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-4b52cf10-8af7-4c55-add8-eb9f3561bc41": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-4b6fa0e2-d464-471e-b8f8-5753e11a33c8": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-4b8ea03c-4aab-4821-9f78-7471407cf0ed": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-4b9b9a7b-d686-4873-86ba-00a67bb1d66e": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-4baabea5-45aa-4389-be4c-19e07b348c45": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-4be3d501-1193-4fe8-ae44-6001cab8e701": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-4c26389d-8ef4-4ed6-9c8d-c0aedcff3601": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-4c2e725c-fd0e-4e61-b9e1-8c9f47943648": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-4cb37ce2-0304-42b6-b2ee-adfa64a2303c": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-4cbd8e0e-9669-40b4-82d0-2003778312b5": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-4ccdae5a-fa78-4cd4-887d-0ef30d87c446": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-4cf5e861-1b58-42e7-87c6-be815eb5ac72": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-4d195ab7-1c7a-4519-9181-54f76c2f476d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-4d234e8a-d387-4667-a011-d8bc1287446a": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-4d2b161b-194f-42b1-ae12-dde7ace0886a": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-4d708aed-1be7-48ea-83a9-e663382e6a85": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-4d860115-e561-4c88-873d-ab492e1b8458": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-4da92aa8-478e-47fe-bcc7-e535df38390f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-4dccc9d7-8f2e-4fe4-bec7-b4dae6801fdd": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-4de20ca0-062a-44ab-9c47-4c5e572af4d9": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-4dfedbc2-11ad-4e4a-ba20-116cb2bd56ac": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-4e64b17e-e2c5-44b1-a7d8-66be076edc1f": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-4e669029-bb7d-4a83-9813-73d99d2c5dd5": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-4e882321-72e4-4797-8b87-0fffbf9f3151": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-4ec22771-8ca1-41fd-93b9-bae48794224a": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-4eed0daa-896e-44e3-bd81-b4ba2fa5bad6": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-4f77fe79-3797-4064-a279-e115a0505c67": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-4fb947b2-62f8-4790-9777-9d3df4431cb2": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 4,
+      "average_score": 3.0
+    },
+    "PI-50145a3f-b9d8-4fd9-a2a7-168271505896": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-507b7da5-cc35-49bb-a11f-e77790ee166f": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-508ca91e-aaaa-44b0-abc0-8b2c2cd75551": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-508da3fd-5e80-4223-bb06-b69c93fc8f6e": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-50a703e9-7ab1-45bc-af15-da69a2bdd7ab": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-50c31908-1e1b-4ce2-a2ea-d9a23a7c0149": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-513a97c6-0950-49b2-9348-9a4f6f91eea9": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-513bb010-58d0-42ac-b062-ed47edc749b8": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-514d902f-bcb9-46a6-9288-56e8f521b5bf": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-515147bc-f3df-45b7-a25c-525baebf593c": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 4,
+      "average_score": 3.3333333333333335
+    },
+    "PI-51849eb7-feba-4923-a567-6a346ef1aaef": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-522cf90d-ebe1-40f5-9178-bb924da8df24": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-526e748c-456f-494d-97f2-a54665e85832": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-52a24162-ed2d-4eb8-a3d8-6fdc7ad24498": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-53010bab-7fea-49e1-9eaa-5771598d50e2": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-53134bc3-341c-493a-99e3-2eb210135437": {
+      "visual_score": 4,
+      "audio_score": 5,
+      "details_score": 4,
+      "average_score": 4.333333333333333
+    },
+    "PI-534192c4-9289-4413-9ed9-3e687d799287": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-535127fc-6a71-48e6-92a9-724df87ff47e": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-5396e9c8-9585-4850-bb36-252837f87c41": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-53a47b0a-37a0-44ab-885a-f16079d0c42d": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-543d7359-3b26-4ffe-b407-16cabbca8d38": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-54c735b1-8a55-4731-a78c-611a24d7bab3": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-54f8ae78-5128-4f08-a2e5-6b911444cdd2": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-55184bac-fdad-4fb2-82bd-45892b7a36cf": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-55226cd6-cc71-4c84-8676-bce9205e7d3d": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-559205d0-a5d2-4464-ae74-39c6d83dff74": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-5596da01-8d56-42b6-90db-ef8b88f0cd77": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-55f60ffb-30c4-452f-a600-4ff84ad2413c": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-5661da41-980d-4be2-8715-476c5c260750": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-5694b398-f840-4b6e-b55f-af24c2fd3bb3": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-56e93267-2111-4d3b-a61f-cf084061d749": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-56f875ba-eedf-4409-a534-22f0ee5fc9e0": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-57021679-5fb5-4b8b-9145-71bbd3a032b0": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-576bae27-2281-48c1-8373-8d5ea7336aa9": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-57a843f3-0062-496d-8432-a9cce3c46627": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-57b9c608-355b-4539-ab7b-13125af59a27": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-57c360bd-07e1-42d6-ad28-a1fd7b75fb2f": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-57fae5fe-6601-40cb-819b-a4e46d1f4f2a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-5805bb27-f613-41ee-a577-2877e9185430": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-5827f100-6975-427e-b69a-1cfc8cafca4a": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-583f742e-543a-49be-9135-25144b1c16dc": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-58511a78-788f-4029-b92c-abde228bef81": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-59306a36-635b-4fd5-9eb7-ceb137f08da0": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-5934f414-1826-42b3-a026-7c8223959045": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-594c7499-97fb-42da-9d21-f333568d5637": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-599b8f62-050f-439d-bcf9-b6eaffe196ea": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-59cdf126-f29b-4e2d-a1a8-de5f346a107d": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-5a057ec8-979e-4159-b5be-ea4fcd1f53dd": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-5ad4a989-b6e2-4539-9f54-a2c0f21efbe1": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-5b24823d-3781-4f31-a93d-1615e0a78ff4": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-5b8e3c6f-4cdc-44f5-beec-596c42b6d5a9": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-5c9090f1-0936-4201-89c8-5869f51fa386": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-5cd62932-3669-494a-a95e-dbc88006c730": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-5d543d15-fd5d-4e0d-9445-ba4eda476020": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-5d98f1d2-de2c-4fd1-8e7a-c6014c475103": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-5dc273d2-cdd5-4bdd-9b37-06e1d7a261bf": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-5ddc54bd-53b5-4352-aa9d-3d12da6ac70f": {
+      "visual_score": 5,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-5e60f11d-ebcf-44bc-acf1-fa3c2244765c": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-5ee8c5f6-2232-4ef2-af1a-33d407735f60": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-5eeaf429-4931-4f41-a6af-f0df07bc1f8c": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-5eecec47-100c-4da7-979e-3e4920a33409": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-5ef3186e-d4ca-413b-a520-2260faf35e0b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-5f1b107b-0cd4-4bd3-b5e8-b0ce6c7d3148": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-5f27600f-5a3d-445d-b163-1bc42bdd8d29": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-5fbee7fb-4339-426a-93ea-e95adf397320": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-5fbefa42-b8ba-484b-a91f-d14abae414ff": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-5fd62136-b000-4140-8508-e5a759178fbe": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-60b88de4-770f-4f9f-bd59-15f7558389fe": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-60da77a7-c4c0-4a05-8efb-8cc59c009b3d": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-611b0b41-3651-4b66-aee0-dea6f0af8878": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-61aceee0-5496-425d-9d85-13302cf27320": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-6202073d-28f6-4ac8-911d-efd58ed97e15": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-621c45a2-b3b9-4476-91c8-5a5a36f2f3de": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-626bb3e3-2a35-48fd-b527-851df8cf943e": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-62844a26-fb98-434d-be85-16cad5457140": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-62c8a54f-1af3-461b-8540-3a0c2aabf56c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-62ddb361-61fa-4ebf-b0ff-cbd990ee6f46": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-6323ac7a-49eb-407e-a811-9cfab6e83e9b": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-641a4b34-6e4c-462d-916b-b5de4c171ab2": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-6447c85e-1d7a-4c67-ac29-b93e4f1d1a1c": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-6452ba28-5aa9-4c49-b68f-7a4d9d4f7339": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-64f5c9d6-246c-46d6-8ee0-5a3ac8571f56": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-651feaaa-d800-42b5-8dc6-5ae62cd99413": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-6563e02b-7dd2-48ad-9afe-24d079b9a3dd": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-65a7495b-578e-4ca6-88d1-6ce7276c63d7": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-65b31253-05b3-46e1-bfee-ebcf127791bd": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-65c0fe3b-a6b1-4cc4-be6b-353c22f50daf": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-65d62db0-eae4-4137-9234-11fdad7b3ebc": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-65e6711e-b63f-4209-be4c-9476c5c0c413": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-65ea4851-4e77-41d7-9733-b5f33ed8aaf6": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-665041ea-e48b-4ea4-8f6a-758ada067004": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-669da437-0440-414f-a7f1-2d9f4ca48787": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-66d20579-4a49-4780-9199-4eaa2f4c5d70": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-6716d5e6-147a-45ec-aa4b-b5444beb7c6a": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-67249447-31ae-4019-932d-f26383ae8c6a": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-67708f07-804b-4f5d-bb82-2b905b6d260d": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-680e9b0a-01a5-44c1-aeb5-6b03c845bf98": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-688958f8-63e7-43a6-b03b-6b413188a0e0": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-689177fb-09d8-4067-bca0-2b8b1a9bb810": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-689ba3aa-eb28-4033-9586-7ae4b86328b8": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-6913706e-135b-4b14-97cc-be80c00efe4d": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-6922cb3c-05eb-4afb-8520-30f25831407f": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-6922d22c-b4d0-472c-a725-090757ca52dc": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-693005a0-e99a-442c-8791-bb97f7686de7": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-69ca282c-853a-4c13-b3c1-61ed846ae77b": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-6a05f5d7-c31c-44ee-b124-23afebc4d15e": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-6a5b4bcc-2a14-4231-b918-c3f785bc8d1a": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-6a5cb2b0-2554-41af-8caf-821d943971e1": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-6a62a0e6-2aaf-4be7-b444-9408960ee08a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-6a710e4d-93e3-4425-8513-700a2e396bcc": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-6a7e3f7f-abc8-4ad1-bcbb-b69b01235f90": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-6b5a32ef-3ce8-4ab8-bccb-26929594983a": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-6ba28c31-1b26-4524-8d98-52edef65c9a6": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-6bce63a8-3bcd-4128-8cee-283740e9a904": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-6c322926-5f5b-4bde-8a8d-e1de69ea46ec": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-6cd69c08-acff-49b8-95d8-032c641ffb01": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-6d1cfbfd-dfa3-4f18-a7dd-46264a2a832d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-6d3e2937-62ad-43d0-bff8-edecba7a7ad2": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-6d5cb4f3-12de-4adb-bf76-80a8b519cd95": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-6d92f172-04b2-46bb-a9b0-f96b364d0ef0": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-6da39f22-8084-403b-9fef-aa30b20cd35e": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-6ddc7202-b812-4ac1-8832-8fb8ff4c090a": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-6e70971d-fce4-4223-81c4-e3da289ee02d": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-6ee9aacd-a2a0-44c5-9113-3b2ce577faa7": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-6f3e65c9-1838-4360-9f9a-4d2ce31cc3df": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-6f548877-0c53-4245-a64f-3b4f94b8950d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-6f9928a0-6607-4a38-89d7-8f7ed92d509a": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-7032bc8a-704c-49c2-a89b-bee98fa1ee32": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-709bcc2a-423d-4a8a-bd22-faf7c4faf1ac": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-70ebbc00-af48-4360-ab45-8ba40d54f088": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-711145f2-ae4a-492e-a77c-2adc27817e90": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-7125611a-73fa-4461-8bdb-f5da092031da": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-7140ff82-3bdd-4900-843e-fb19c6613591": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-717419b7-84ba-4d01-b8a7-127868321f16": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-728fe7d5-284a-4acf-b208-5b84e1fcf1a3": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-7340580b-0d60-4575-940d-d3709e8b81eb": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-73418974-737e-4b4a-8b4f-7ed320f47366": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-734e020c-a92b-4ce5-914d-97c97a412773": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-735dbdf5-ee65-40e7-b4ee-f70c3b5d0486": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-73a02519-7499-471b-95d2-a2be5019264f": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 4,
+      "average_score": 3.3333333333333335
+    },
+    "PI-73bdfcef-afd0-48ee-9555-1ad27247101f": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-73da758e-c477-404c-b859-de5f35697e4c": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-74acc9bc-78b9-4266-bf51-39d427f4f98f": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-74cf2e37-20a0-4b4e-b7a3-43730e901714": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-755b9b16-3205-47ce-a1ca-a3bb73633df6": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-75b43ad8-1c3e-4e48-835c-113fe0239eea": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-7619ef35-649c-44f2-a783-2a8523745726": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-761d33c8-eff3-4a5b-afb2-d8ea6da93e4e": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-7629796c-cc0b-4d52-9495-e812d0e322ff": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-76b03703-aa31-4fd4-8842-cf26fc39f6ca": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-7725aaf6-8af4-4055-ab9f-78984127be8c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-774cd7ac-176e-4432-ba25-d1a4e2afc2e4": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-77f9cac4-86f8-4901-b4de-0d086c2e761e": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-78e08059-57e4-4a52-9984-6ceded404bdb": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-78f098ea-c0c2-4f78-8d64-6c20d12d6a54": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-799e755f-f78f-4245-a774-ff8a784f03ce": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-79a6d2a4-1501-418a-a183-084b9517ae30": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-79ad677c-32e4-4971-a527-9cb16d97ef72": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-79f3890b-70e2-4f2a-bc5d-29822c53eb4e": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-7a0b1eb6-46e8-4647-b0a6-13f9db0a8a79": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-7a8790b6-d326-463b-a7a9-957342af59b7": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-7a97b475-0a2c-4c24-accb-7f405b3db547": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-7aa33a44-295d-46f2-b3dc-64b90e21b09f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-7aae3999-0397-4827-8926-f5a3f88d8abe": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-7ab618a8-4719-4781-a8b4-758e2644da14": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-7af5d8e1-c614-47cb-beaf-a4db12047370": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-7afdd81c-3a6f-4075-b917-075ff56d8feb": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-7bc59470-2759-4f00-8151-8fe58babca9a": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-7be37528-d874-4594-9190-58db958d75a8": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-7c06f89e-9ab9-4cb2-a722-d7465daf2d65": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-7c5804b6-a3e7-4e70-bef4-ffd3f410595c": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-7c65de83-716d-4e1a-a897-bf6ef9c8129c": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-7c8ae675-478b-4e05-bddf-b8eb0cd171ac": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-7cebf766-934c-4759-b1d2-ca0377717b57": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-7d11c8d3-894d-4fa4-a4da-e57e8c63700e": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-7d1534d2-100f-4c4d-a777-a368b1f7ad8d": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-7d88790e-53fc-4919-93ef-bfcc441d1777": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-7db184fa-bf43-419a-a4c9-887b86fee02b": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-7f2f7686-886f-42a8-a51c-383ac8b40582": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-7f392659-3b25-4107-801a-80f92badb5ab": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-7f4cbc38-d77f-4c36-b0a7-4694dcab886b": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-7fde54c4-26f2-4f42-b6c1-bbe235893871": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-80094038-fd5f-4226-8518-ce5e1ca0789c": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-8022fc31-b7d0-4b53-b11c-7486b1686c2a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-802870d8-1efe-4744-be21-2c9d657aa274": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-80887a6b-40ea-4c3b-b258-bb7e65724cfd": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-80a1893b-ea51-4dfc-8d5f-b2440d15f2fb": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-80c4c73d-d258-45a3-976c-4d2d0dc0e5de": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-83078783-c975-4b3c-9159-453810373b50": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-833c6044-fb30-4820-a9b6-15f93a59d01b": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-835e0894-6f06-429a-850c-c056665f7f9f": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-83ce7cc1-76c1-47e3-b453-3db0ce4749c6": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-83e01b7e-de52-40ca-ac9b-8add8337fc62": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-84fc45b7-2a63-4984-9aa9-6e49e6662d96": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-851f1603-a853-4e03-8fe5-9be77d058756": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-855f053a-b8c3-44e0-8165-936cb31f6f5a": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8568c80a-e149-49f3-a7b3-327722b4ac90": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-864b7065-d4b0-48bf-ae88-2156e8e537ba": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-868a201b-d6c2-4cd1-bf4c-5ceb41e7044a": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-86f221e8-bcad-4b9e-8ba2-4aa5f50e0096": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-86f62975-f818-4f7e-ac8c-b18dfb6bb8ec": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-8711ae92-caa4-4f7d-99e6-94df78d928ad": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8717e54d-04f5-4b34-8acf-93e3ecd4818d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-877d6942-9947-4860-8856-ad12d6c3a495": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-877ead98-b389-4cad-bbf2-21ed41413859": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-87a0fa43-e7f2-4866-bc6b-9a82740b0551": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-87c762df-8f34-4a2b-9e2d-5930b5638e07": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-87ccbaee-93b9-48e0-bf1b-7a9b02d6b94c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8826920d-a3d5-4564-b10c-5fe5f88baa11": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-884a491b-93f3-4264-83c6-34a1a5dd3be5": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-886b1a76-ec9f-4cd7-b623-2ef3ff026028": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-88780f99-2140-479b-80c1-0f87364ba10c": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-88e812b9-2c29-44d3-ab1c-33c31929d60d": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-88fa71fb-bd02-4b46-9b15-6608f25974c3": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-892a5cee-95bd-4dc2-9cff-7f7f1e22a301": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-892ee280-929f-4b24-9e35-aeef36a0fe03": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-8949b4b6-b7fa-4f89-b42b-c8a6b1ea4f3e": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-89f76c27-b26a-4f97-82f1-2028b4009a68": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8a211352-249e-420a-8cec-ea623bf37f0e": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8a7bec9d-856c-4393-9032-8e42e1945631": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-8b2d3d96-a6bc-4901-abcb-c58e5b51a56f": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-8b477377-3900-4e61-8c3d-d62b1799d5f3": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8b7c42b1-602a-43de-a018-d8828658792a": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8bcad9c2-c6be-496e-a58f-5bb516cd6e6b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-8c3402c5-221d-4363-a236-fdbd3a8857a6": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8c3da229-5fb7-4f17-9ad2-df3103439dd2": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8c4798b1-b5a4-48d8-9ac9-430882281acb": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-8c564fe8-3ff1-4699-8823-016c9449043b": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8c72f852-2d3d-4458-a9a6-c6f67ede15c8": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8c8e0d96-b56c-4b4d-9a2c-e5010f25040c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8cb472dc-0bf3-4132-aaa2-96e8121e47dd": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8ce0bc7c-fa27-4f4c-ba28-2749d7acc8d6": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-8d583b4f-518a-4f3e-9818-fadc548f93db": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8d63b8c8-941a-4f8e-99e2-84889bcca5d0": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-8d787ab1-4559-42db-986e-9f5b59645fdd": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8dc7bde4-46d4-4a2d-9f69-bf1bce77af88": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-8e2edbc8-b72d-41f8-827a-eadb10dd7c1f": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8e423df7-1c3e-4a45-a305-0576ace69732": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8e721b23-a96b-43d0-bcf0-afa70529248a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-8e8696e6-fdad-417f-a594-09b4f14b7e8f": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-8e8bbb6c-17cd-41eb-8c75-ceb94efdc870": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-8e96030b-f9ba-45e9-ac37-8c7d08207a37": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-8ebac9f7-fdaa-4710-8157-99237f59d78d": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-8ee37f98-8967-491e-81c3-4287c5ba762c": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-8ee675b4-6ed9-4edf-9cb4-2bc06a33dfb4": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-8ef743f7-c4df-4950-ba1b-f7c58fa84f69": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-8ffc4915-58b7-43af-aa92-f0656352d314": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-90022dbd-bab0-4f12-b0f0-9a8fee7afa0b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-9084dd13-2176-4845-bdde-db2a391ab94c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-90cf97dd-8024-4f28-9578-e0fc4472dcc0": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-90def5b0-db61-47c9-8100-2821d72dc99e": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-91314f3b-7c8d-424a-a5ae-acc2c22abee8": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-9183c33e-4cc0-40d6-acd1-8595b534a90f": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-918ab7e3-4892-49f1-bb85-3912a53338f6": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-9235e6b5-25ac-4966-a72e-d796d310800c": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-929a3580-f9bf-41a4-b67b-434b38f8ab45": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-92aead6c-1060-446f-a60c-e24b9c8caaa8": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-92eb5f3a-f12a-4493-b6e8-3ea6e2782d00": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-92fd83de-2801-4fcd-95b0-6d945c167551": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-9341b8f8-e705-4a21-b733-740a9184d664": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-939e40ba-3017-49ba-bb19-7dcf45530b9e": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-93d43b76-b2b0-45b9-ae1b-d9dbae713d0c": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-94682c20-eaee-40f0-9173-b96773d8e916": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-947b81d0-3cae-47c5-a1a2-fa230bd4cc03": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-94ee6d92-0c67-4deb-8df3-b439ba6cd378": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-95e00dcd-ce4e-4f6a-9956-f2293dc18a7f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-95f4ec87-20bd-49b3-a542-6db5d47a1c55": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-9614f8be-c80d-4ba4-b6e6-8be5c7758935": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 1,
+      "average_score": 1.6666666666666667
+    },
+    "PI-96302124-0686-40da-ab48-2c20d6de48f2": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-96b8738b-dc9a-4d76-93f6-8a2763f56c4c": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-96d5b0e6-6ec3-4fee-9815-3694230dee6b": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-976899a2-94bd-48e8-bf96-59513fc5dec4": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-97727df2-a7b5-480d-bb69-57e47d907983": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-98478288-a59c-4585-8ca7-d76e356e5842": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-985a55a8-b905-47fd-a23f-9b746da271b5": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-997fb09d-339a-4aa8-a859-711f01a23bde": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-99a5bb4a-e85b-456f-b90d-074a101ae85d": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-99d96a2f-ed82-4776-b913-cb5fbce3a3fe": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-99e3385f-e2c2-4494-ba33-c42d8319932e": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-99fa1a5e-9984-4464-b0d7-bb2d07ba3508": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-9a3ff6aa-230b-40b8-bfd3-ff5ab1d4237c": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-9a5f8e4a-1143-417c-b9ec-c0298eaa9f02": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-9a6b9f8f-2498-4c58-9adf-0aacfacd00dc": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-9ac55f7d-b5d3-4627-8e08-75810f60f5fe": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-9bd97456-4b5f-4595-832d-0007be621efa": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-9c136173-1d50-42d9-bfce-707e6cd31c22": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-9c2aeb2d-8bde-41e3-a9a8-98fcea987d6d": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-9c3fd2c6-58ec-4504-84ac-cd05ee3e72b0": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-9c69e120-b7d7-4461-8d33-5dbbdf49d68a": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-9c7bc85d-8411-4340-80fc-989ab6e1f8c3": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-9ce71b5f-3602-45ea-9aab-c348d0a529a8": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-9d1337b6-5080-4de4-b901-d0902f68eb2b": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-9d52afc4-947f-433f-abc4-d9782a3acf4f": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-9d588e7f-6619-43f8-8280-458b0b13fb4a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-9d84ee90-40ef-4c33-b666-4a1c32d21ca4": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-9ed4e463-5c11-444d-9757-f77e4d2c0e54": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-9eeee5f2-c844-4c57-aff5-50de7f5dd76d": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-9f4d1ae9-72bc-4679-8c91-55d98c8d043b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-9fc8c830-b3ed-4c23-8aee-7151f4b5749b": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-9fcf113b-e22d-4302-9d49-81226fa96df1": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-9fd00ab5-c007-4012-bffe-50fe39c1787a": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-9ff48331-ce44-49d7-a91e-e440f44248aa": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-a028eedc-e2df-4612-adbd-80230153ab1d": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-a037925e-7da9-45a0-ad68-38edc13d9e29": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a08ab2c9-6bfd-412e-a4b3-982265821f1f": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a0904290-23dd-47a9-853e-e748dcd38eb1": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-a0cda524-2165-4704-9171-87e8be278cbe": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.6666666666666665
+    },
+    "PI-a0de8f20-5330-48c7-b755-ec825a59e116": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-a0f77afa-d0ee-44bb-9d62-f8db59f303a6": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-a117f55b-1235-43fe-add1-4b764fc407ac": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-a158cc7a-ff6a-4776-b99c-1500f47edd4a": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-a1707f1e-7c41-4956-8c2e-d49eefb6b036": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-a1a9dfd1-6e05-45db-be93-527918c7c155": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-a23bd840-554c-4334-b8e4-c1a8c1512e59": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-a290191f-5752-4dab-9c37-5a2bcf9ee283": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-a2f3318b-1bd1-4349-873f-9f0a5642125f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-a333d929-ad9d-44d6-8867-260eb99b1fd5": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a34613e3-7cce-41b9-8d68-f3d0ba77e558": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-a3983bd0-89de-4507-b707-d67b27a39b31": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-a3fadafd-0cc8-4a3d-a872-a00ad7b45982": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a4443251-f37c-41b4-b3d5-8af271e7ee2b": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-a4973944-70a8-4204-951f-a034cfe1cbf2": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a4e51fcc-55f5-46fd-904e-e0ae50fd6905": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-a59931bb-b924-4742-a247-4dfff8509320": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-a5d3145d-ca02-4d7d-a379-b2a5d31ae646": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a5e4f03a-555f-4ab8-91cc-88a015b327d1": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-a685e6d1-f6ba-4f9c-92c9-716265efac4d": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a6be789a-f97b-4f5c-baf5-b7efe39683bf": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-a6fd6705-888f-48ea-af78-768a5b2f60f5": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-a7a77074-dfdb-4789-9ac4-071d147c21a8": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-a7e9b299-e8c8-4f8b-ae60-c05aa5b92793": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a7ea3b61-b5d9-4ed9-a404-ef7029895597": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-a90fddef-10b8-4320-b828-b68bd02a7807": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-a9374e6e-c6f3-4867-89b8-3f6c27905b62": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-a968a06a-57e9-44b7-b600-7ffb93a6b1a1": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-a98679aa-b935-4f25-859d-4f3c84e5bb09": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-aa0fc068-e8e0-4ae3-a978-a238f3a01418": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-aa6e2a21-c856-4f01-9136-c7936ab70d92": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-aa7fb8e0-c5b8-4fdf-a5f8-e664fb230dbb": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-aab8e526-05b8-401a-8027-ec760403af60": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-aae468a3-bf3c-4e70-ad0d-3dd21eba309e": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-aae71fc9-0b60-434c-8233-a6af8cfcc50c": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-abd4ffa4-0955-496b-b261-5bef8d19b513": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-acacfd50-4d73-4cfd-bf54-ca82e9b54bd3": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-acc00f5d-9e67-400e-943d-0635f102f36e": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-acdeadd0-81f5-4d55-a0d8-a0664545baf3": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-acff10ef-f65b-4748-8436-f457254914e6": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-ad5b0b5d-4eaa-4cb9-8741-26e4f80fc654": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-ae8dfc44-f1f2-4dc6-97a1-2bda2334d502": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-af6571aa-8ca5-4c2d-b8c0-744be81ed43d": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b02f61d6-bd61-462b-aebf-7c95ab4a6a4f": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b08991f9-66e2-4bc2-9de5-9228da3bc35d": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-b0bfaf5f-1abd-43d6-a027-b665d56d1197": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-b0c6d05a-7605-48ae-8ed3-1178682d41ec": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-b0fcdd6c-db0e-4b28-9640-0072003e4af0": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-b123a80d-f09d-4273-951f-00a7f852c437": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-b12c4f4b-3ff1-4e1d-b5e7-d4186953b996": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-b1814560-0c19-4aff-88ca-fff5748c00f7": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-b1de6e59-e367-4c14-9219-c6704b02c622": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-b26b6112-1c48-4f7a-9d2b-586d90618478": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b2afa3a2-a732-47a4-856b-33536664c605": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-b2bdf2b7-803f-4381-8c6b-72ca7523f2f0": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b36208d4-e2ab-4fdc-8ef1-472c112137d3": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-b38fbf05-d82c-46b3-ac13-92cbbd35dbad": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b39cbde6-2892-46c0-b0c7-c7793d450327": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-b39e040a-c1f9-44fc-b689-a885702681e6": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-b39f00ec-018c-4f5f-b8d3-8389f3a7e8c4": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b3add5ca-ed86-4b56-91d8-0a4a4a8d2587": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-b3b043a8-7081-4f33-ad47-5a2df34276d2": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-b3e846e4-a6dd-45b3-84f3-860c1163b792": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-b3ec1904-f621-4298-9ab6-8121920cfe35": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-b410d64c-6164-4b5b-82b8-ea75645498d1": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-b43ae9fe-d4b7-4505-a6de-fae59951fad2": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-b4c96b9d-7335-42dd-8635-2d6d3e300860": {
+      "visual_score": 1,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b4cf22ed-c600-4a33-b6ae-f2b3522d6aa8": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-b4d0c74b-85d5-4f7a-87a0-56e877dd02d6": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b4df549d-6b83-48ae-9862-7e6d7bf6f7d7": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-b53c82cd-988c-4a24-90b8-3a6435068dda": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b5428b2f-3b04-4eb6-99a7-48b3e255dfaa": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-b5af0737-d7dd-4c8f-904f-deb79201e240": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-b5b1ffe6-698f-4c5f-b44f-ef1186f961c5": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-b5dc86fa-665a-4f7e-980f-9973eeea633e": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-b609b388-c662-4667-9a0f-fd0408716cda": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-b614178e-1901-4cec-93de-8bb44aee718a": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-b621c401-368e-4077-b6ba-e64228b35343": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-b64c5b05-ab89-411d-b8bb-51bbb2f4f4f6": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b6a219f8-35df-47f0-b113-602d8d3554a8": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b72dd3e2-de4c-4d24-a49c-fa8b3081a322": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-b7781e79-c824-4376-88af-0f8a13198f3c": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-b79aba92-0bee-422f-ac74-c50bdb9f225c": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-b8d89471-48f8-4f87-8037-3b983375318b": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-b90d0f51-0edd-407a-8465-aad286fa7756": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-b9cb44fb-8a69-49ef-a584-2c6be328cf09": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-ba1cf5d9-6147-40de-a23c-ee6c3a8241e9": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-bb00eb2a-f319-4642-806b-0e9652708cc3": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-bb6f3387-102a-4fa1-88b2-d12cf2b723aa": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-bb84e457-9513-4567-b45d-c63ef48d652e": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-bbfc20c9-caa1-4684-9373-7be6d7ac377f": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-bc38ebfe-190f-4fac-9b92-037ef6b0021b": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-bc609332-b212-4e88-80a8-3b4b518cfabf": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-bcf9f179-852a-42ed-8661-fc8f4d767024": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-bd0e980b-a6e7-411c-a2df-bf9150650a51": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-bd3abc53-92bd-439c-9d36-8f62abc9a691": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-bda2c2d2-a3d0-41b3-8e9f-8c53e9d8df1d": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-bdc99456-9c28-4855-9b88-be401245f68a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-bdeed0d4-e881-4666-8fea-89bd64ab491c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-be2a4dc2-e51f-48f6-a9b3-663a751d15f4": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-be5cf1fc-b3ff-43be-ac5a-06ae82eaef71": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-bed8d469-f807-4199-a166-6eff63b6d560": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-bf3a575e-6b58-4ec5-aae2-2dbcd2674e95": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-bf64233f-0be3-4933-ac30-53c1b783135a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c05e8574-a762-474d-bc29-db666f8b2d37": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-c0a39605-7da5-41f4-af10-c30bda966556": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-c0ad261c-9ba7-4164-ada5-f6f3f062a271": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-c0b1e029-7afc-479d-b2b1-8543aa0144e9": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-c0edeb8d-9c14-4712-a249-24ccb763d8d6": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-c11c5d1d-b6ef-4193-a8bb-08bc1047c9c4": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-c12e9844-ddd4-4f78-b0b9-6b1ba1112e7d": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-c1ad03fe-fcf7-4656-a28c-e9221bfa0aef": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-c1bc8b4e-fd98-47d5-b6a6-eefe940de552": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c1cb93b0-65b0-4c00-8d39-d1b2812c1e85": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-c26277e1-9629-4239-8ed5-353165c2f64f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c266e0cb-d4cf-4622-b644-6446119d176f": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-c27a0de1-1bda-48b2-b8b7-1a0a1dba0659": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-c2885f9a-d833-4c52-a647-9606124bedd7": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-c2b8b91a-cee7-4977-8958-591a34f69521": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-c36465f0-daac-4e53-b0e1-a2a1abb73b37": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c386974a-78a9-45ec-8931-a9ebac3a260c": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-c397a844-683a-4c05-a31f-21b35b722e3b": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c3afed6e-6b1c-42c1-8be1-66c2ed86367b": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c3cde03b-6930-48a3-b009-2a10c3b671bd": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-c3d802fe-4ffc-40de-8dcb-8368e336cbcc": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-c3ec3491-dcbd-422e-9bb9-4bd8826846b0": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-c445fafc-e188-4df9-972b-13307b5f5363": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-c4933ce4-70ec-4984-9ecc-b9aed5f578a2": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c4d06814-a085-4190-8608-613ef06d5c74": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-c4f0d04a-5652-4944-a463-67e4355aee66": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-c541f488-0697-4c28-906c-f1c693984a8b": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-c57f355a-2eaf-43e6-8c7d-7bad8d768343": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c5ba83f2-7f46-4003-97e7-830968e9a6d2": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-c63884a4-cfe6-43d6-8623-a84057b1e8df": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-c65ca5c9-87e4-410f-8439-8213d785d3ac": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-c6dd8b4a-36d1-4ed8-a7e1-e13d05db2945": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.3333333333333335
+    },
+    "PI-c7931465-9723-47a0-943e-c710892adf90": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c7b0831f-75b5-415c-a25d-9cb20176cc24": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-c7c1198a-5834-415f-80bc-0e06abbca7b4": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c7dbe764-4bfa-4c20-b803-63370c9822da": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-c7e95e63-5dc9-4578-9baa-37092cbe0abb": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-c81bebc5-53de-49fc-96cb-991794912945": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c87af6d2-531a-4d9d-b307-83b026a81f75": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c91eb9ca-752a-426f-b35b-d00f05df3513": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-c9394fc1-c54c-402f-9cd9-91b210b19adc": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-c94b32b3-ba2d-40c2-9c6f-bfc119323187": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-c98cd651-9a77-45fa-b05d-15e1b4189ec7": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.6666666666666665
+    },
+    "PI-c9f236ed-b9cf-40c2-be1d-acba8419794a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-ca64f59d-6ae7-44b6-b2db-0a7c46f39fb1": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-ca7cb456-8dc6-4902-a170-3deba8cf9514": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-caa5860a-da98-43bb-aaf2-976e8906e82d": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-cb30ec39-116e-453e-b1ce-8d22f98e1622": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-cb5c6627-19af-45a0-948a-0f2b733d668d": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-cbc23ca9-a6d1-4777-a9f6-3b4cbf0c4ef3": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-cbcc3c9a-b4f9-4118-8bb7-f7bdc8bede99": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-cc0084a3-2566-4c17-a8d6-46d66505eee0": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-cc04fb9c-5102-4fe0-9d3a-4a90a7f5d1c0": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-cc3b1b60-d248-4069-8b40-8a7a7b22d54a": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-cc500b00-549b-4d75-b7f9-eb29e3333d64": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-cc5157f0-15d7-4f88-a945-bc9e9da400da": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-cc6288a5-2f05-438e-8c4e-fdd942288e8b": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-ccc8d4e8-9ac6-47d8-9aa5-6d6c65c0eb04": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-ccf05e36-8060-4898-a65f-d698e0bd75df": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-cd3fd401-7ca4-47c1-ae6b-35d38ea7b9a3": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-cd46db80-3583-45d6-9b31-1a492be802de": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-cd48ced7-86a5-45ef-b19a-00828d99ee38": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-cd85c134-6eab-4173-b1f8-60c8b3c2bb76": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-cdc566f8-26bd-40d5-be6d-17ae422b4b02": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-ce37283b-0427-4525-8a66-72de7aec563d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-ce5b885a-1661-4575-aa61-eebca8745e83": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-cec20dc9-8b6a-4ee8-abda-d27e6ac0ae54": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-cf39e88f-7290-4578-9754-0a4458eb2c64": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-cf4f69a7-a73a-4d62-90f2-9ee71dd604dc": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-cf50f0e2-940b-4385-af50-46bccaf1a474": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-cf844add-3c9b-41f8-b3bc-d62127a392ef": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-cfe173d2-7562-4d55-b658-8972ec5b707e": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-cfeeefd4-e484-4d42-88a3-53bf5ba44953": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-d02b1a53-8224-461e-a671-a07f1a50f20b": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d05780b1-718b-49ae-878c-17917bccaf50": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-d05909d0-278e-4ec8-8b81-0d4004006917": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-d0756ddb-096d-4bd8-9ba0-8c2af144895e": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-d0eccd74-7e66-4d8b-8d0b-dddb98caa7ac": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-d1460d1c-14c1-4bde-b7cb-660496d494e8": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-d17fb048-7fc5-4c26-b0fb-c63b8e6f88c2": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-d199e019-f355-45c0-a2aa-218b1ef1cc8a": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-d1b64a86-619a-463d-8f0f-02cb684c7674": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-d22c4917-fec1-40b7-9a9e-70e8f6504277": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-d2a52b45-30eb-4f81-b495-2c2a8b78efed": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-d2ad692a-7ddd-4940-87c4-1157b287789e": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-d2ead292-7543-422f-b9e9-7ea79b588f7c": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-d2f0d27c-ba72-4048-b30f-ca7c145da552": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d34c7467-b7f9-48aa-b552-af1e6d41cf7e": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-d39f53e4-e73b-4e49-b09e-e1748c9298af": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-d3cb8143-d4ba-42f3-ad30-760aaa7fb28c": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-d3d31914-b178-408c-93b1-b170c8c7c3cb": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-d3e2ba50-48f0-4404-bcdc-72c399c20299": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-d458fae0-8510-4d13-9a67-d53f0f374e7a": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-d4959730-5cbe-42a5-8efc-cc9b318a05ee": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-d535ffb6-810c-4679-909f-7ab0e49dd57b": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-d53a2f2a-7024-4fa5-a5fb-4da194538312": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d5f56595-cf52-445d-9539-1fc8560262a4": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-d605563e-c766-4041-95b4-47d1384e4adb": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-d61d3125-569c-419c-a59f-cf1ad194e0b5": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-d627b249-e7e3-458b-8b52-029dc215e92e": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-d6321b33-40b5-4e41-a540-2cb3cca9daad": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-d668efb3-d209-4142-b61b-da8a48947f25": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-d671dae7-363c-4780-975a-4ae35f7d82d4": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d68fdff4-a629-49f7-8f4d-ad854c967e1d": {
+      "visual_score": 2,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d6fe2163-4fc5-4d05-8198-1f78bec120b6": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d7117940-4fc2-431c-beef-fbef230388a2": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-d748509e-a204-41f4-b7fb-4f14bf1289d9": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-d762f25c-4d1d-43ef-a320-d3bb0c7e38f3": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d7a250ce-89e3-4540-a8d8-526b036a0598": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-d88b14a1-640d-4a06-b695-62a345b51147": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d8c91c62-c892-4a03-9c9f-cc4f76be3365": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-d8ff4e4d-926f-4797-b55b-e479aa9e2293": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-d9199359-d7f5-4f03-a5d6-58c2cce658d1": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-d95a39ba-334d-47c3-b46f-8b59cae2147c": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-d9956c92-ee0b-4c9a-86c9-93487642ce2d": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-db20d7b4-ce67-4075-a689-fc7a19ba92b6": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-dba07bb8-8ae9-4d18-a871-2fc47a9f9a96": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-dba2c4a1-7f83-4c2f-9a8c-6c4c661279d1": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-dbb7c6d6-221a-48ce-a90a-57bacc985326": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-dc06826c-dd7b-421a-adfd-e165bf3e6387": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-dcd6b6a6-383d-4e8e-9e38-8a2987301070": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-dcf50841-794d-4322-904c-951a6f142e1d": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-dd194da3-28ee-43e3-9484-9f3cd5888874": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-dd298539-77ad-40c1-910f-c3b9d0d47479": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-dd4c001c-4650-430e-8a2b-808fab1e280d": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-dd522cc0-adee-4d75-976b-173b2aa17faa": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-dd815296-edc8-41e8-a8d8-f30e647336dc": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-dd8300e4-7ce3-4a22-a203-f964962b010a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-de38a476-6ab0-4c2c-80bc-f99095b54080": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-de6239a1-4bde-4d24-bdee-28e3d2902825": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-df5209a8-0bc6-4150-802f-4947723589d8": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-df6ee9fa-19ef-4c36-a2d2-20110063407b": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-df90c2c2-9b5a-4479-bbb7-c9fc203c382a": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-e020fd6a-7a5b-4768-8750-66234b4c1917": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-e0681c0f-f244-4694-b205-8014fa2fdbde": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-e09a2edb-cbbd-4df9-939b-2dff47df060a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-e14cd183-429a-4165-9bc1-d9486930755d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-e1e56b91-74f0-4f11-aa36-378b7c69b5ce": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-e26332c8-ffa1-492d-93ce-2099059f6cbe": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-e27d9cfa-c07c-4690-9931-887d11956130": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-e2d494bf-8fbd-4e0c-ad93-1b2735a4e92c": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-e2d81784-24ed-4362-b1e5-9863542ef815": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-e3043bf9-e84c-4cfc-8a98-f27656918c5a": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-e3633a23-9c26-434c-a1db-405a37b69eb9": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-e3741a7c-84e4-47f2-87b6-7f14f8e134e6": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-e37737d1-c81a-4c57-bb6e-94c8a7582560": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-e377a2f5-c3e7-40d5-aa9a-f9b0a43084b1": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-e43c7c8e-77d5-4cc5-b54c-895cb8ab637c": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-e44358e9-6a19-4dd4-9ff2-412ad8cf3222": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-e53b36dc-6a56-479a-802b-0020c8c129e7": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-e549e625-5b03-4bb2-a52d-7bcd348b01ac": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-e54c15cb-2aa7-4e63-9c6d-4b43e309568f": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-e5767457-5882-4417-a291-aa3816d91dd8": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-e5784e8e-6db4-4d1d-882c-1c71cf68849e": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-e65b882a-541b-4210-b88a-217a04b371ed": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-e6aa57c2-d8e1-43c8-bc8a-03d97d83fa4b": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-e7154e28-199c-4446-ad0f-de2ab5052070": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-e7285ec5-2bb1-4184-82e4-72f9a7982035": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-e7628ecf-4695-4e36-9fbd-1356551c2cbb": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-e79697d2-f796-4962-9d92-bce774292d8c": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 5,
+      "average_score": 4.333333333333333
+    },
+    "PI-e7c15057-e643-4925-b79d-b372749b31f1": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-e885ae46-7677-44b0-be50-f17010ee82a8": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-e8d8e9f7-8c95-4214-9315-9d2677aed935": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-e8d9c6a0-39c4-4bb6-aedc-7b1ab65d3e37": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-e8e9dc00-6cbc-4e2a-8d70-2aa5eacf014d": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-e93cbecc-3c11-4167-a2ed-fd65e0a513c3": {
+      "visual_score": 1,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.0
+    },
+    "PI-e97b5b53-ca23-4057-873f-595495c4cb12": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-e99bb25b-bc22-4bf6-8c91-851b1164265f": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-e9df1ac8-ca22-4d40-9f9a-28fb4b0e1ee2": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-ea0a61b4-ea06-4d7a-b8c6-908e8780279c": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-ea169897-c571-4b03-9dab-6219778b7af1": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-eacc6b40-8fe4-4910-877e-2524b4fe73c6": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-eb82cb24-75ca-4fc8-b2d7-a535c7f93878": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-eb9cc983-0f1b-4e60-a35a-990889dc1a1f": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-ebab6c59-e5a3-4f63-9a39-fb373c66df78": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-ebe52af4-63eb-4bf5-8fe8-3d74efd1d7f2": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-ebf14605-f167-4635-856e-cb58f0ebfa20": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-ec337199-c707-4cac-a179-18f6834e33b0": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-ec40bd18-cdcd-484a-abcc-5a67020f20af": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-ec7d9ef7-1c6f-4c51-8331-353373c2e80e": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-ec80a7b0-d1a8-4634-a2e7-7a9778b7ce1e": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-ecc2aa2e-ff64-418f-bb01-b7f3c2c9ef12": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-ed22a002-e24a-4a50-9d26-6464cdaeefe6": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-ed693799-3f52-4849-a26b-bfeed4eda6a5": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-ed86891f-ee21-40c6-b2c8-370485f16103": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-ee6f3623-5f83-4723-aaa7-707a2d9ad882": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-ee729c2b-2c89-4344-942d-a5627f432872": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-ee95723a-4c01-49eb-b7e8-c760a2a06047": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-eea0fdb2-aa84-4a90-b5c2-7f6d20a9857c": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-eee430ac-00cb-40ef-9361-a0382bda3651": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-efd4ed56-1cc8-4c20-878b-33517f7dc831": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-eff178d8-5093-43d3-8ee5-bac4872268b0": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f020452b-dbe8-4f13-84ac-93951c512d05": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f025619c-476b-4f61-b5b1-027c2b250292": {
+      "visual_score": 1,
+      "audio_score": 2,
+      "details_score": 1,
+      "average_score": 1.3333333333333333
+    },
+    "PI-f0c8a135-9a04-48ad-aa07-20e9eb71aba1": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f10c0e85-e876-4925-9efc-a4cb2a5193b7": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-f1417eef-7711-4e89-a7a4-4871a65e5bce": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-f14575c7-64f2-4e58-ae43-2ec84aeb18f6": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-f18659ef-ad97-4f7e-aa9c-55221cf80612": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-f1af0a1d-3ef8-466d-8060-5d28053098a3": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-f1e04c07-50d5-4a51-adfe-0ce0e64228e6": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f1ffcdf5-9614-4375-acff-e9c7345ee8f8": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-f20460c9-46a1-4bec-bf13-26520dd18a55": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-f214332f-3f42-4c67-ba0b-3797a5c1cd0f": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-f225406b-dc94-4aaa-8530-d4c00e5f33d8": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-f31cca0f-308e-4294-8388-cc95cba387bd": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-f32e4773-7010-4db7-aff0-f2143ba88a73": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-f3f2299c-9bad-4ed0-a88c-e4fc703cc2a1": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-f421c707-4e20-4e37-8305-bc18837030b3": {
+      "visual_score": 1,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-f445781e-6464-497e-b25f-f4ebc910c20e": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-f44f45cd-31c4-4a7d-bffc-c48b8b3c02fc": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-f5019a3d-3102-4526-ab9f-e21d42f44e64": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-f50459d5-a41e-41b9-ae82-9b946b58dff0": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-f56362c1-c4a9-4020-9530-c242536d64d0": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f597492e-f673-43c2-be6f-6a7a7f0f7e2e": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f6424d3e-bc9e-432d-9efd-20fec27330b0": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-f6910ccf-d1bd-40bd-9b55-ff05f4b784cf": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 4,
+      "average_score": 3.6666666666666665
+    },
+    "PI-f6d41c38-c6aa-4ee6-bef8-442075f70394": {
+      "visual_score": 4,
+      "audio_score": 1,
+      "details_score": 4,
+      "average_score": 3.0
+    },
+    "PI-f722fbb2-5f77-4309-af23-52b573894c3b": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f7364b80-bf54-4270-b91c-0c54981eeca1": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-f73c5bd7-40d5-4f44-9257-147bd166cc39": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f7725055-28ce-4105-b31f-aafbae4afdb2": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-f7a48163-384c-4a43-848d-89505902d366": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f7ad1047-fe08-4bd7-bcb2-16fc62f6cc16": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f7c550d4-dd52-47b8-b526-a90b1e0cc146": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-f7ca5103-dda5-4eed-92f4-1e09db2180fe": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 3,
+      "average_score": 2.3333333333333335
+    },
+    "PI-f8c701d0-0d9a-4e5d-b57e-21bf6f4ed195": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-f8e1c99b-9074-44bb-aae3-5c2c288cecef": {
+      "visual_score": 3,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-f8e5b905-362f-4bdc-a763-2c0b005a1044": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-f90fbf54-dddb-4cb4-9f50-a0200f8586d2": {
+      "visual_score": 4,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f91f7f0e-2f7f-4219-a0d6-ade5c47128de": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f933f342-7652-4a7a-be04-d76ec3c3ac4b": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-f9885d21-3272-4ae1-9e6a-ae56a250cc75": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-fa334430-b64c-43c4-a6f4-0013fddfe45e": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-fa7225c9-ad39-41e3-90fe-c6ea0f1b1de7": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-fad18f1d-a901-410f-afed-b2e13b8e5a45": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-fb0767f8-2af8-4b17-86b8-5fd8da2b0a12": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-fb295a75-c314-4b4a-9d70-af8a938c813c": {
+      "visual_score": 2,
+      "audio_score": 1,
+      "details_score": 2,
+      "average_score": 1.6666666666666667
+    },
+    "PI-fb6bdf82-12fb-4272-a8f9-e87df8a3753a": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-fbe2cbe7-8413-4305-859c-930ec17cb12f": {
+      "visual_score": 2,
+      "audio_score": 3,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-fbf1783f-3932-4447-97ca-0462c7aab72a": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-fbf3a08f-1d25-423b-91f8-184960ad6ef8": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-fc63780b-164e-4642-9e93-6392d83a682d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.3333333333333335
+    },
+    "PI-fc9cb121-37e7-4a13-bced-2c3264e11942": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-fcbfa09c-0bdc-452e-9390-0233ba3a4a2c": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-fdcc5d8e-336a-496e-8484-1c4c6afb5497": {
+      "visual_score": 4,
+      "audio_score": 4,
+      "details_score": 4,
+      "average_score": 4.0
+    },
+    "PI-fdf40fb7-d219-4784-9067-fdcb53d1071b": {
+      "visual_score": 2,
+      "audio_score": 2,
+      "details_score": 2,
+      "average_score": 2.0
+    },
+    "PI-fe28b7ec-1a3b-4b80-831b-2e7c16b65c0d": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-fe4afd98-432f-4dbd-aedb-7a3623148bef": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-fe5e49c0-d18a-40fe-a141-784b1d2cb277": {
+      "visual_score": 3,
+      "audio_score": 4,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    },
+    "PI-feea7dc7-1030-4c0c-868f-73052aa044e8": {
+      "visual_score": 3,
+      "audio_score": 2,
+      "details_score": 3,
+      "average_score": 2.6666666666666665
+    },
+    "PI-ff238e9d-edfe-47fc-ae12-defb456caa8e": {
+      "visual_score": 3,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.0
+    },
+    "PI-fff34530-8208-40f3-87a9-539159f74be9": {
+      "visual_score": 4,
+      "audio_score": 3,
+      "details_score": 3,
+      "average_score": 3.3333333333333335
+    }
+  },
+  "overall_average_percent": 52.17884551217893,
+  "overall_visual_average": 2.784784784784785,
+  "overall_audio_average": 2.4114114114114114,
+  "overall_details_average": 2.630630630630631
+}
