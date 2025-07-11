@@ -17,7 +17,11 @@
     <img src="tiktok_qa_sample.png" alt="UGC-VideoCap">
 </p>
 
+## Benchmark Results
 
+<p align="center">
+    <img src="benchmark.png" alt="UGC-VideoCap">
+</p>
 ## Model Zoom
 
 | Model                         | visual | audio | details | average | Link |
