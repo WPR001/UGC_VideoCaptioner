@@ -1,6 +1,9 @@
 # UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks
 
 
+
+## Abstract
+
 <p align="center">
   <a href="https://memories.ai/" target="_blank">
     <img src="https://img.shields.io/badge/Paper_Latest-Version-blue">
@@ -12,9 +15,6 @@
     <img src="https://img.shields.io/badge/Huggingface%20Models-🤗-blue">
   </a>
 </p>
-
-
-## Abstract
 
 Real-world user-generated videos, especially on platforms like TikTok, often feature rich and intertwined audio-visual content. However, existing video captioning benchmarks and models remain predominantly visual-centric, overlooking the crucial role of audio in conveying scene dynamics, speaker intent, and narrative context. This lack of full-modality datasets and lightweight, capable models hampers progress in fine-grained, multimodal video understanding.
 To address these challenges, we introduce **UGC-VideoCap**, a new benchmark and model framework specifically designed for detailed, omnimodal captioning of short-form, user-generated videos. Unlike prior datasets, UGC-VideoCap emphasizes balanced integration of audio and visual modalities, featuring 1,000 TikTok videos annotated through a structured three-stage human-in-the-loop pipeline covering audio-only, visual-only, and joint audio-visual semantics. The benchmark also includes 4,000 carefully crafted QA pairs probing both unimodal and cross-modal understanding.
