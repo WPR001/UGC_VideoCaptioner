@@ -5,9 +5,6 @@
 #  UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks
 
 
-
-## Abstract
-
 <p align="center">
   <a href="https://memories.ai/" target="_blank">
     <img src="https://img.shields.io/badge/Paper_Latest-Version-blue">
