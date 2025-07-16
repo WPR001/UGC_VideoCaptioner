@@ -76,7 +76,7 @@ python vllm_infer.py
 
 
 ## Evaluation 
-### Final Caption prompt(omni)
+### Final Caption prompt(for inference)
 
 ```python
 prompt = "You are given a short video with both audio and visual content. Write a detailed and coherent paragraph that naturally integrates all modalities. "
