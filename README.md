@@ -76,8 +76,18 @@ python vllm_infer.py
 
 
 ## Evaluation 
-### Final Caption
+### Final Caption prompt(omni)
 
+```python
+prompt = "You are given a short video with both audio and visual content. Write a detailed and coherent paragraph that naturally integrates all modalities. "
+"Your description should include: (1) the primary scene and background setting; (2) key characters or objects and their actions or interactions; "
+"(3) significant audio cues such as voices, background music, sound effects, and their emotional tone; "
+"(4) any on-screen text (OCR) and its role in the video context; and (5) the overall theme or purpose of the video. "
+"Ensure the output is a fluent and objective paragraph, not a bullet-point list, and captures the video's content in a human-like, narrative style.
+```
+
+
+### Score
 **judge by gpt-4o-2024-08-06**
 
 This version of model was posted before the tikitok video. 
