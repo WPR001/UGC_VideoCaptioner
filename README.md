@@ -12,9 +12,9 @@
   <a href="https://memories.ai/" target="_blank">
     <img src="https://img.shields.io/badge/Paper_Latest-Version-blue">
   </a> 
-  <!-- <a href="https://arxiv.org/pdf/2503.12542v2" target='_**blank**'>
-    <img src="https://img.shields.io/badge/arXiv-2503.12542v2📖-bron?">
-  </a>  -->
+  <a href="http://arxiv.org/abs/2507.11336" target='_**blank**'>
+    <img src="https://img.shields.io/badge/arXiv-2507.11336📖-bron?">
+  </a> 
   <a href="https://huggingface.co/collections/openinterx/ugc-videocap-6845e290580112a1834737c4" target='_blank'>
     <img src="https://img.shields.io/badge/Huggingface%20Models-🤗-blue">
   </a>
