@@ -13,8 +13,8 @@
   <a href="https://memories.ai/" target="_blank">
     <img src="https://img.shields.io/badge/Project_Page-%F0%9F%8C%90-green">
   </a>
-  <a href="https://github.com/openinterx/UGC-VideoCaptioner" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Code-black?logo=github">
+  <a href="https://huggingface.co/collections/openinterx/ugc-videocap-6845e290580112a1834737c4" target='_blank'>
+    <img src="https://img.shields.io/badge/Huggingface%20Models-🤗-blue">
   </a>
 </p>
 
