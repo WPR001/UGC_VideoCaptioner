@@ -279,10 +279,10 @@ python eval_caption.py
 If you find this repository helpful, feel free to cite our paper:
 
 ```bibtex
-@article{wu2024ugc,
+@article{wu2025ugc,
   title={UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks},
-  author={Wu, Zhenyu and Sun, Qiushi and Zhang, Jiabo and Zhu, Yuyin and Ma, Guojun and Cheng, Kanzhi and Jia, Chengyou and Tan, Jian and Yang, Qing and Wu, Zhiyong},
+  author={Wu, Peiran and Liu, Yunze and Zhu, Zhengdong and Zhou, Enmin and Shen, Shawn},
   journal={arXiv preprint arXiv:2507.11336},
-  year={2024}
+  year={2025}
 }
 ```
