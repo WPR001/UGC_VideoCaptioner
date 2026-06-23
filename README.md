@@ -1,6 +1,7 @@
 
 
 # 🔥 News
+- **[2026/05/26]** O-MARC and MARC please check:https://github.com/WPR001/Omni_marc
 - **[2026/05/26]** We will release a new compression method and benchmark(UGC-AVQA)
 
 
