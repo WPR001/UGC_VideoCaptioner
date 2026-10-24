@@ -1,11 +1,5 @@
 
 
-# 🔥 News
-- **[2026/05/26]** O-MARC and MARC please check:https://github.com/WPR001/Omni_marc
-- **[2026/05/26]** We will release a new compression method and benchmark(UGC-AVQA)
-
-
-
 # UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks
 
 **UGC-VideoCaptioner** is a 3B-parameter captioning model distilled from Gemini-2.5 Flash, specifically designed for detailed, omnimodal captioning of short-form, user-generated videos (UGC). It addresses the crucial role of audio in conjunction with visual content, which is often overlooked in existing video captioning models.
