@@ -261,17 +261,13 @@ if __name__ == "__main__":
 ```
 
 
+## Data Source
+```bash
+https://drive.google.com/drive/folders/1QFiKalzB4EaeQZSMk2W5trpB9CNZv1w-?usp=sharing
+```
 ## Evaluation
 
-### Final Caption prompt (for inference)
-
-```python
-prompt = "You are given a short video with both audio and visual content. Write a detailed and coherent paragraph that naturally integrates all modalities. "
-"Your description should include: (1) the primary scene and background setting; (2) key characters or objects and their actions or interactions; "
-"(3) significant audio cues such as voices, background music, sound effects, and their emotional tone; "
-"(4) any on-screen text (OCR) and its role in the video context; and (5) the overall theme or purpose of the video. "
-"Ensure the output is a fluent and objective paragraph, not a bullet-point list, and captures the video's content in a human-like, narrative style.
-```
+Please refer ./simple_eval
 
 ### Score
 
